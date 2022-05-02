@@ -1,0 +1,1 @@
+class SearchDemo2 {}
